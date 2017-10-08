@@ -7,7 +7,7 @@ setup(
     author_email='XXXX@gmail.com',
     install_requires=['numpy', 'matplotlib'],
     #dependancy_links=['git+ssh://git@github.com/our-company-internal/unko.git#egg=unko'],
-    url='buta-buta.sakura.ne.jp/',
+    url='xxxx.com/',
     license=license,
     packages=find_packages(exclude=('tests', 'docs')),
     test_suite='tests'
